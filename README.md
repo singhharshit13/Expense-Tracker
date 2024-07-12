@@ -9,11 +9,10 @@ This is a simple expense tracker application built with Node.js for the backend.
 3.RESTful API: Backend exposes RESTful APIs for seamless interaction with the database.
 
 **Installation:-**
-1.Clone the repository: git clone https://github.com/singhkumaraman/Expense_App.git
-2.Install dependencies: npm install
-3.Set up environment variables 
-4.Run the backend server: npm start.
-5.Run the frontend server: npm run dev.
+1.Install dependencies: npm install
+2.Set up environment variables 
+3.Run the backend server: npm start.
+4.Run the frontend server: npm run dev.
 
 **Usage:-**
 1.Register a new user.
